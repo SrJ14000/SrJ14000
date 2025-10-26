@@ -21,15 +21,26 @@ In addition to my experience in .NET, I have worked on personal projects with Un
 
 
 
-<!-- <div id="user-content-toc" align="center">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons--
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,github,java,md,mongodb,mysql,Godot-dark&perline=14" />
-</p> -->
+    <img src="\icons\Csharp.svg" width="60"/>
+	<img src="\icons\WPF.png" width="60"/>
+	<img src="\icons\Ado.NET.png" width="60"/>
+	<img src="\icons\EntityFramework..png" width="60"/>
+	<img src="\icons\ASP .NET .png" width="60"/>
+</p>
+<p align="center">
+	<img src="\icons\MicrosoftSQL.svg" width="60"/>
+	<img src="\icons\api.svg" width="60"/>
+	<img src="\icons\Java-Dark.svg" width="60"/>
+	<img src="\icons\datadog.svg" width="60"/>
+	<img src="\icons\ContectStack.png" width="60"/>
+</p>
+
 
 <div id="user-content-toc" align="center">
   <ul align="center">
